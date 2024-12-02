@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tulip900
+- 👋 Hi, I’m Tulip
 - 👀 I’m interested in Coding and international languages and music
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Web development projects
